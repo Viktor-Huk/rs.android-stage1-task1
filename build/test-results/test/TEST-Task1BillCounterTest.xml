@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Task1BillCounterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-03-21T15:44:36" hostname="endless" time="0.003">
+  <properties/>
+  <testcase name="testTask3BillCounter1" classname="Task1BillCounterTest" time="0.001"/>
+  <testcase name="testTask3BillCounter2" classname="Task1BillCounterTest" time="0.001"/>
+  <testcase name="testTask3BillCounter3" classname="Task1BillCounterTest" time="0.001"/>
+  <testcase name="testTask3BillCounter4" classname="Task1BillCounterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
